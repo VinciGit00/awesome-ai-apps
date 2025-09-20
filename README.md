@@ -58,11 +58,11 @@ This repository is a comprehensive collection of practical examples, tutorials, 
     </td>
     <td width="200" valign="middle" align="center">
       <a href="https://dub.sh/scrapegraphai" target="_blank" title="Visit ScrapeGraphAI on GitHub">
-        <img src="https://raw.githubusercontent.com/ScrapeGraphAI/ScrapeGraph-AI/main/docs/assets/scrapegraphai_logo.png" height="44" style="max-width:180px;" alt="ScrapeGraphAI - Web Scraping Library">
+        <img src="https://raw.githubusercontent.com/ScrapeGraphAI/ScrapeGraph-AI/main/docs/assets/scrapegraphai_logo.png" height="44" style="max-width:180px;" alt="ScrapeGraphAI - AI web scraping framework">
       </a>
       <br>
       <sub>
-        <span style="white-space:nowrap;">Web Scraping Library</span>
+        <span style="white-space:nowrap;">AI web scraping framework</span>
         <br>
         <a href="https://dub.sh/scrapegraphai" target="_blank">
           <img src="https://img.shields.io/badge/Visit%20Site-blue?style=flat-square" alt="View ScrapeGraphAI on GitHub">
